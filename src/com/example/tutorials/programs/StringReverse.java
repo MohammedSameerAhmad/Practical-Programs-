@@ -1,6 +1,13 @@
 package com.example.tutorials.programs;
 
 public class StringReverse {
+
+    /**
+     * Implement a program to reverse the sentence of the given statement word by word and then reverse.
+     * Example Input: Hello
+     * Output: olleH
+     *
+     * */
     public static void main(String[] args) {
 
         System.out.println(reverseStringUsingStringBuilder("Hello"));
