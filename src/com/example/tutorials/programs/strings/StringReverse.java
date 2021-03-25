@@ -1,4 +1,4 @@
-package com.example.tutorials.programs;
+package com.example.tutorials.programs.strings;
 
 public class StringReverse {
 
